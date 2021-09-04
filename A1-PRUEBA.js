@@ -1,0 +1,1 @@
+log("Hola máquina 2")
